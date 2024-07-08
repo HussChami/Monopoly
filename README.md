@@ -16,9 +16,8 @@ Features
 - Jail System: Players can go to jail and have the option to pay to get out.
 - Save and Load: Players can save their game state to a file and load it later to continue playing.
 - Bankruptcy: Players go bankrupt if their money drops below zero, and the game ends when only one player is left with money.
-<br />
+  
 Files
-<br />
 <br />
 - monopoly.cpp: The main source code file containing the game logic.
 - monopoly_save.txt: The file where the game state is saved and loaded from.
