@@ -21,8 +21,7 @@ Files
 <br />
 - monopoly.cpp: The main source code file containing the game logic.
 - monopoly_save.txt: The file where the game state is saved and loaded from.
-<br />
-<br />
+
 Save and Load Functionality
 <br />
 - The game can be saved to monopoly_save.txt, storing player states and board information.
