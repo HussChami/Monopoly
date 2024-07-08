@@ -27,5 +27,10 @@ Save and Load Functionality
 - The game can be saved to monopoly_save.txt, storing player states and board information.
 - The game can be loaded from monopoly_save.txt to resume from the last saved state.
 
+Conclusion
+<br />
+<br />
+This Monopoly game simulation provides a basic but functional implementation of the classic board game. Players can experience the core mechanics of Monopoly, including buying properties, paying rent, and managing their finances, all within a simple C++ program.
+<br />
 
 ![UML Diagram](https://github.com/HussChami/Monopoly/assets/144967166/986851db-e8a3-41f9-b4ec-f860cfe73a34)
